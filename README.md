@@ -6,6 +6,8 @@ is composed of multiple Horizontal recyclerviews which the user can swipe
 horizontally from left to right. The user can still swipe from top to bottom
 by moving through multiple rows of reyclerviews.
 
+![Sample Image](https://raw.githubusercontent.com/bangonkali/Xamarin-RecyclerView/master/static/sample-default.png)
+
 Each row of recyclerviews is independent from the other rows.
 
 ## Modified by
